@@ -6,3 +6,11 @@ D:\Users\Tim\Desktop\ErklaerBaer\ErklaerBaer\obj\Debug\ErklaerBaer.csproj.Sugges
 D:\Users\Tim\Desktop\ErklaerBaer\ErklaerBaer\obj\Debug\ErklaerBaer.csproj.CoreCompileInputs.cache
 D:\Users\Tim\Desktop\ErklaerBaer\ErklaerBaer\obj\Debug\ErklaerBaer.exe
 D:\Users\Tim\Desktop\ErklaerBaer\ErklaerBaer\obj\Debug\ErklaerBaer.pdb
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\bin\Debug\ErklaerBaer.exe.config
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\bin\Debug\ErklaerBaer.exe
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\bin\Debug\ErklaerBaer.pdb
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\obj\Debug\ErklaerBaer.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\obj\Debug\ErklaerBaer.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\obj\Debug\ErklaerBaer.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\obj\Debug\ErklaerBaer.exe
+D:\Users\Tim\Desktop\ErklaerBaer\src\ErklaerBaer\obj\Debug\ErklaerBaer.pdb
